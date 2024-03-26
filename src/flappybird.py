@@ -6,11 +6,11 @@ Date: 25/03/2024
 import pygame
 import os
 
-from pipe import Pipe
-from base import Base
-from bird import Bird
-from begin import Play
-from begin import Mouse
+from src.pipe import Pipe
+from src.base import Base
+from src.bird import Bird
+from src.begin import Play
+from src.begin import Mouse
 
 # Definition of the game image dimensions
 PICTURE_WIDHT = 500
