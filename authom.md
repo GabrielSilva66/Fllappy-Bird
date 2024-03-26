@@ -28,5 +28,5 @@ To run the game, follow the steps below:
 
 
 --------
-&copy; Gabriel V. Silva 2024.
+&copy; Gabriel V. Silva\2024.
 
